@@ -1,0 +1,9 @@
+Our April meeting is on Monday April 6 at 7pm. Directions http://foxpython.tumblr.com/meetings
+
+It will be a project night, we will be working on stuff for the FoxPUG Github https://github.com/FoxPUG group.
+
+Also, Christian Long will talk about adopt pytest month http://pytest.org/latest/adopt.html.
+
+Get in touch on the FoxPUG mailing list https://mail.python.org/mailman/listinfo/foxpug or on Twitter @foxpython https://twitter.com/foxpython if you have questions, or ideas for presentations.
+
+Link to announcement on tumblr: http://foxpython.tumblr.com/post/115146172417/april-meeting
